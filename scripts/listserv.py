@@ -5,4 +5,4 @@ if len(sys.argv) < 4:
     exit(1)
 names = open (sys.argv[1], 'r')
 for name in names:
-    print ("approve wilder 319", sys.argv[2], sys.argv[3], name, end="")
+    print ("approve wilder319", sys.argv[2], sys.argv[3], name, end="")
